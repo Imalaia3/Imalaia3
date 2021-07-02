@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<t>I'm Imalaia3 (From the mountain you know).</t>
+<p>😄 Pronouns: he/him
+⚡ Fun fact: I'm trying to make a game engine like <b>goldSrc</b> based on the QUAKE Engine
+
+  
+  
+</p>
