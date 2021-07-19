@@ -17,4 +17,4 @@
 
 
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=ibzann&show_icons=true&theme=dark&icon_color=eee">     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibzann&theme=dark"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=imalaia3&show_icons=true&theme=dark&icon_color=eee">     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibzann&theme=dark"></p>
