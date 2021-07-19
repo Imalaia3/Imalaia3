@@ -6,7 +6,7 @@
 - 🧑‍💼 I’m looking to collaborate with anyone!
 <!--- 💬 Ask me about ..-->
 <!--- ⚡ Fun fact: ..-->
-- ☎️ Contacts!
+- ☎️ Contacts: [Discord](https://discord.com/users/661629086665408531)
 
 
 
