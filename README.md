@@ -1,24 +1,9 @@
-### Hi there 👋
+<h1>hi im Imalaia3 (the mountain) 👋</h1>
+-
+- From: Athens GR | Computer Enthousiast
+-
+-
 
-<!--
-**Imalaia3/Imalaia3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<t>I'm Imalaia3 (From the mountain you know).</t>
-<p>😄 Pronouns: he/him
-  ⚡ Fun fact: I'm trying to make a game engine like <b>goldSrc</b> based on the QUAKE Engine
-
-  
-  
-</p>
+- 🔭 I’m currently working on Disk Utilities
+- 🌱 I’m currently learning C++, PHP, CSS, HTML
+- 🧑‍💼 I’m looking to collaborate with anyone!
