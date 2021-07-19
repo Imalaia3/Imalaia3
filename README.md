@@ -1,7 +1,7 @@
 <h1>hi im Imalaia3 (the mountain) 👋</h1>
 
 
-- 🖥️ I’m currently working on Disk Utilities
+- 🖥️ I’m currently working on Screen Record & Terminal
 - 🌱 I’m currently learning C++, PHP, CSS, HTML
 - 🧑‍💼 I’m looking to collaborate with anyone!
 <!--- 💬 Ask me about ..-->
