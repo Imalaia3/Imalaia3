@@ -1,7 +1,7 @@
 <h1>hi im Imalaia3 (the mountain) 👋</h1>
 
 
-<img src="Away.png">
+<img src="Away2.png">
 
 - 🖥️ I’m currently working on Screen Record & Terminal
 - 🌱 I’m currently learning C++, PHP, CSS, HTML
