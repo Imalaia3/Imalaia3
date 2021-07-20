@@ -3,7 +3,7 @@
 
 <img src="Away2.png">
 
-- 🖥️ I’m currently working on Screen Record & Terminal
+- 🖥️ I’m currently working on Disk Utils & Mailing Client
 - 🌱 I’m currently learning C++, PHP, CSS, HTML
 - 🧑‍💼 I’m looking to collaborate with anyone!
 <!--- 💬 Ask me about ..-->
