@@ -1,6 +1,6 @@
 <h1>hi im Imalaia3 (the mountain) 👋</h1>
 
-- reverse Engineer, Lib Developer, Web (NotWebsite) Developer, App Developer
+- reverse Engineer, Lib Developer, App Developer, OSDev
 
 
 
