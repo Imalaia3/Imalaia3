@@ -4,7 +4,7 @@
 
 
 
-<img src="Away2.png">
+//<img src="Away2.png">
 
 - 🖥️ I’m currently working on Disk Utils & Mailing Client
 - 🌱 I’m currently learning C++, PHP, CSS, HTML
