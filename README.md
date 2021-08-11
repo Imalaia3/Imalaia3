@@ -6,6 +6,8 @@
 
 <!--<img src="Away2.png">-->
 
+<img src="Error Message.png">
+
 - 🖥️ I’m currently working on Disk Utils & Mailing Client
 - 🌱 I’m currently learning C++, PHP, CSS, HTML
 - 🧑‍💼 I’m looking to collaborate with anyone!
@@ -17,7 +19,6 @@
 
 
 
-<img src="Error Message.png">
 
 
 
