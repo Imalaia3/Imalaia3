@@ -1,7 +1,7 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">GitHub Readme Stats</h2>
- <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
+ <img width="100px" src="https://avatars.githubusercontent.com/u/70742174?s=400&u=ff6564e13e2b8c99536f488d7a5b8435b1b2a6b0&v=4" align="center" alt="Hmm" />
+ <h2 align="center">Hmm</h2>
+ <p align="center">Hey I'm Imalaia3!</p>
 </p>
 
 <!-- reverse Engineer, Lib Developer, App Developer, OSDev-->
