@@ -1,5 +1,5 @@
 <p align="center">
- <img width="500" src="Error Message.png" align="center" alt="Hmm" />
+ <img width="400" src="Error Message.png" align="center" alt="Hmm" />
  <h2 align="center">Hmm</h2>
  <p align="center">Hey I'm Imalaia3!</p>
 </p>
@@ -9,7 +9,7 @@
 
 
 <!--<img src="Away2.png">-->
-
+<img width="400" src="Error Message.png" align="left" alt="Hmm" />
 
 
 - 🖥️ I’m currently working on OS & Mailing Client
