@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="Error Message.png" align="center" alt="Hmm" />
+ <img width="500" src="Error Message.png" align="center" alt="Hmm" />
  <h2 align="center">Hmm</h2>
  <p align="center">Hey I'm Imalaia3!</p>
 </p>
