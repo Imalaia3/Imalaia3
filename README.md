@@ -5,7 +5,7 @@
   <ul>
     <li>Graphics Programming using OpenGL and Vulkan</li>
     <li>Python, C++, C & Java</li>
-    <li>Low level networking</li>
     <li>Data Encoding & Compression Formats</li>
+    <li>Hardware Emulation</li>
   </ul>
 </div>
